@@ -1,5 +1,5 @@
 /* ===== CONFIG: the ONLY places you need to edit ===== */
-const PAYMENT_URL = "PASTE_SUPERPROFILE_PAYMENT_LINK_HERE";
+const PAYMENT_URL = "https://superprofile.bio/vp/indian-investment-portfolio-tracker-os";
 const ASSETS = { // files live in assets/images/. w/h = pixel size (keeps the correct aspect ratio). cat: A-D gallery category
   dashboard:      {src:"assets/images/dashboard.png", w:1916,h:837, cat:"A · Portfolio Dashboard", title:"Main Dashboard", text:"Portfolio value, cost basis, gains and income at a glance, with the data-quality status shown up front.", alt:"Tracker OS Excel main dashboard showing sample portfolio values and a data-quality status"},
   dashAlloc:      {src:"assets/images/dashboard-allocation-chart.png", w:1917,h:837, cat:"A · Portfolio Dashboard", title:"Dashboard Allocation Chart", text:"Asset allocation by class, shown visually on the dashboard.", alt:"Tracker OS dashboard allocation chart by asset class"},
